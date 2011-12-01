@@ -1,5 +1,5 @@
 {
-   "abstract" : "Perl extension for obtaining unique interpreter IDs",
+   "abstract" : "unique perl Interpreter IDs",
    "author" : [
       "Roger Crew <crew@cs.stanford.edu>"
    ],
@@ -21,6 +21,6 @@
       }
    },
    "release_status" : "testing",
-   "version" : "0.010_001"
+   "version" : "0.010002_002"
 }
 

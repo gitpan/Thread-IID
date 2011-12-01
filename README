@@ -1,9 +1,9 @@
 
 
 This archive contains the distribution Thread-IID,
-version 0.010_001:
+version 0.010002_002:
 
-  Perl extension for obtaining unique interpreter IDs
+  unique perl Interpreter IDs
 
 This software is copyright (c) 2011 by Roger Crew.
 

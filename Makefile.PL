@@ -9,7 +9,7 @@ use ExtUtils::MakeMaker 6.31;
 
 
 my %WriteMakefileArgs = (
-  'ABSTRACT' => 'Perl extension for obtaining unique interpreter IDs',
+  'ABSTRACT' => 'unique perl Interpreter IDs',
   'AUTHOR' => 'Roger Crew <crew@cs.stanford.edu>',
   'BUILD_REQUIRES' => {},
   'CONFIGURE_REQUIRES' => {
@@ -20,7 +20,7 @@ my %WriteMakefileArgs = (
   'LICENSE' => 'perl',
   'NAME' => 'Thread::IID',
   'PREREQ_PM' => {},
-  'VERSION' => '0.010_001',
+  'VERSION' => '0.010002_002',
   'test' => {
     'TESTS' => 't/*.t'
   }
