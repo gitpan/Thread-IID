@@ -1,5 +1,5 @@
 ---
-abstract: 'unique perl Interpreter IDs'
+abstract: 'unique Interpreter IDs'
 author:
   - 'Roger Crew <crew@cs.stanford.edu>'
 build_requires: {}
@@ -12,4 +12,4 @@ meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: 1.4
 name: Thread-IID
-version: 0.02
+version: 0.03

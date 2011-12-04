@@ -1,5 +1,5 @@
 {
-   "abstract" : "unique perl Interpreter IDs",
+   "abstract" : "unique Interpreter IDs",
    "author" : [
       "Roger Crew <crew@cs.stanford.edu>"
    ],
@@ -21,6 +21,6 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.02"
+   "version" : "0.03"
 }
 
