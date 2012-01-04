@@ -1,3 +1,5 @@
+0.04      Jan 03 2012
+
 0.03      Dec 04 2011
 
     * replaced hardwired >>11 just in case sizeof(PerlInterpreter)
